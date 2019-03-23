@@ -1,5 +1,7 @@
+
 #include<stdio.h>
 #include<conio.h>
+#include<math.h>
 #define f(x) (a3*x*x*x+a2*x*x+a1*x+a0)
 int a3,a2,a1,a0;
 void main()
